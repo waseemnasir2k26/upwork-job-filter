@@ -1,0 +1,74 @@
+{
+  "_label": "SYNTHETIC SAMPLE DATA. Invented jobs for demo and tests. Not from Upwork. Never present as a real pull.",
+  "jobs": [
+    {
+      "id": "syn-1",
+      "title": "SYNTHETIC: n8n lead routing to CRM",
+      "budget": "1,200.00",
+      "job_type": "fixed",
+      "client": {
+        "country": "United States",
+        "total_spent": "$12,000.00",
+        "hire_rate": 72,
+        "verification_status": "VERIFIED"
+      },
+      "published_date": "2026-11-19T09:00:00Z",
+      "proposals_tier": "5 to 10",
+      "skills": ["n8n", "API Integration", "CRM Automation"]
+    },
+    {
+      "id": "syn-2",
+      "title": "SYNTHETIC: WordPress fix, crowded",
+      "budget": "400.00",
+      "job_type": "fixed",
+      "client": {
+        "country": "Canada",
+        "total_spent": "$3,000.00",
+        "verification_status": "VERIFIED"
+      },
+      "published_date": "2026-11-19T10:00:00Z",
+      "proposals_tier": "20 to 50",
+      "skills": ["WordPress"]
+    },
+    {
+      "id": "syn-3",
+      "title": "SYNTHETIC: Shopify tweak, low budget",
+      "budget": "90.00",
+      "job_type": "fixed",
+      "client": {
+        "country": "Australia",
+        "total_spent": "$900.00",
+        "verification_status": "VERIFIED"
+      },
+      "published_date": "2026-11-18T10:00:00Z",
+      "proposals_tier": "Fewer than 5",
+      "skills": ["Shopify"]
+    },
+    {
+      "id": "syn-4",
+      "title": "SYNTHETIC: AI chatbot, wrong country",
+      "budget": "30.00-60.00/hr",
+      "job_type": "hourly",
+      "client": {
+        "country": "India",
+        "total_spent": "$20,000.00",
+        "verification_status": "VERIFIED"
+      },
+      "published_date": "2026-11-19T11:00:00Z",
+      "proposals_tier": "5 to 10",
+      "skills": ["AI Chatbot", "OpenAI API"]
+    },
+    {
+      "id": "syn-5",
+      "title": "SYNTHETIC: automation, no budget, no country",
+      "job_type": "hourly",
+      "client": {
+        "total_spent": "$5,000.00",
+        "verification_status": "VERIFIED"
+      },
+      "published_date": "2026-11-19T12:00:00Z",
+      "proposals_tier": "Fewer than 5",
+      "skills": ["Automation", "API"]
+    }
+  ]
+}
