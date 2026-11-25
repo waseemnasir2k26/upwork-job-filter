@@ -62,4 +62,10 @@ Raw pulls contain client names and spend. Keep them in a private folder, never c
 
 Change thresholds in `filter.py`, lane keywords and weights in `score.py`. Run `python -m unittest discover -s tests` after every change.
 
+## Built by SkynetLabs
+
+This filter is the one we run on our own Upwork pipeline at [SkynetLabs](https://skynetjoe.com/?utm_source=github&utm_medium=readme&utm_campaign=upwork-job-filter), an AI automation agency (n8n workflows, AI voice agents, WhatsApp bots, AEO and SEO). Built by [Waseem Nasir](https://www.waseemnasir.com/?utm_source=github&utm_medium=readme&utm_campaign=upwork-job-filter).
+
+Related free tools: [upwork-mcp-toolkit](https://github.com/waseemnasir2k26/upwork-mcp-toolkit) and [upwork-job-radar](https://github.com/waseemnasir2k26/upwork-job-radar).
+
 MIT licence.
